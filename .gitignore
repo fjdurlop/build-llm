@@ -1,2 +1,4 @@
+book/
 vllm/
 github.sh
+*.ipynb_checkpoints/

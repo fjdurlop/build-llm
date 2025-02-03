@@ -2,3 +2,5 @@ book/
 vllm/
 github.sh
 *.ipynb_checkpoints/
+build_a_llm.pdf
+.DS_Store

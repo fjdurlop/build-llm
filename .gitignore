@@ -1,7 +1,6 @@
 book/
 vllm/
-github.sh
-clean_author.sh
+/*.sh
 *credentials*
 *.ipynb_checkpoints/
 build_a_llm.pdf

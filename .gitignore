@@ -1,6 +1,8 @@
 book/
 vllm/
 github.sh
+clean_author.sh
+*credentials*
 *.ipynb_checkpoints/
 build_a_llm.pdf
 .DS_Store

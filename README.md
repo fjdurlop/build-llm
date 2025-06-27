@@ -18,3 +18,6 @@ videos: https://www.youtube.com/watch?v=kPGTx4wcm_w&list=PLTKMiZHVd_2Licpov-ZK24
   - self-attention with trainable weights
   - with causal mask and dropout mask
   - multi-head attention
+- Ch. 4 Implementing a GPT model from scratch to generate text
+- Ch. 5 Pretraining on unlabeled data
+  - evaluating generative text models
